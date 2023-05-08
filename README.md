@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-coordinatespanel
+<br>
+diameter of the dot coordinates of mouse press constructor, sets up this panel to listen for mouse events. draws all of the dots stored in the list. represents the listener for mouse events. adds the current point to the list of points and redraws the panel whenever the mouse button is presed. provide empty definitions for unused event methods
